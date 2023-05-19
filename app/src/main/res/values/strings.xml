@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Practica01</string>
+    <string name="miNombre">Erick Hernandez</string>
+    <string-array name="generosP">
+        <item>Accion</item>
+        <item>CiFi</item>
+        <item>Terror</item>
+        <item>Comedia</item>
+        <item>Romance</item>
+        <item>Drama</item>
+        <item>Suspenso</item>
+        <item>Musical</item>
+        <item>Fantasía</item>
+        <item>Documental</item>
+    </string-array>
+</resources>
